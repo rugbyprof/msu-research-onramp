@@ -37,12 +37,10 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 - Once your system has rebooted, go to the Windows Store and search for “Linux.”
 
-<img src="">
 <img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/install-ubuntu-windows-10-linux-subsystem-3-1.jpeg" width="500">
 
 - You’ll see the option to install Ubuntu or SUSE. I have installed Ubuntu for Bash on Windows here.
 
-<img src="">
 <img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/ubuntu_suse_choice_02_16_20.png" width="500">
 
 
@@ -51,7 +49,6 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 - Once you choose the distribution of your choice, you’ll see the option to install it. Do note that it will download files of around 1Gb in size. So you should have a good internet connection here.
 
-<img src="">
 <img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/install_ubuntu_win10_02_16_20.jpg" width="500">
 
 
@@ -64,7 +61,6 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 - It will take some time installing and then you’ll have to set up the username and password.
 
 
-<img src="">
 <img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/ubuntu_on_windows_confirm_02_16_20.jpg" width="500">
 
 - Don’t worry, it’s just for the first run. 

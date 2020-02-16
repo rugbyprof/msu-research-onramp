@@ -1,6 +1,5 @@
 This beginner’s tutorial shows you **how to install bash on Windows**._ **Linux on Windows** is a reality, thanks to the partnership between 
-- [Canonical](https://www.canonical.com/) (parent company of Ubuntu) and 
-- [Microsoft](https://www.microsoft.com). 
+- [Canonical](https://www.canonical.com/) (parent company of Ubuntu) and [Microsoft](https://www.microsoft.com). 
 
 This way you can run Linux commands inside Windows without the needing to install a virtual machine.This is a good option if your main aim is to learn Linux/Unix commands.
 

@@ -1,5 +1,5 @@
 ## Research Onramp - Learn Some Python
-#### Weekly
+#### Weekly Coding Tutorials
 
 ### Introduction
 

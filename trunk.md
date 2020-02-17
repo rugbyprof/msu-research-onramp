@@ -1,3 +1,7 @@
+## Ignore This File
+
+- It's a clipboard for Griffin :)
+
 https://gitforwindows.org/
 
 https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/git_for_windows_2_16_20.png

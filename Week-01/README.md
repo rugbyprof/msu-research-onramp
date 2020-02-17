@@ -3,3 +3,5 @@
 
 ### Introduction
 
+- This folder contains all the code we talked about on saturday
+- I commented it as much as I could so everyone might recall what was going on and understand

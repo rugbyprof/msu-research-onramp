@@ -16,5 +16,7 @@ Sorry, all the files from the first week are available under the [Week-01](Week-
 
 - [Week-01](Week-01/README.md)
   - All the code from our first weeks meeting.
+- [Week-02](Week-02/README.md)
+  - All the code from our second weeks meeting.
 - [Tutorials](Tutorials/README.md)
   - They aren't very complete, and we will work on completing more of them.

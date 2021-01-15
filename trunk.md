@@ -20,3 +20,5 @@ $ git config --global user.email johndoe@example.com
 $ git config --global core.editor code
 
 git config --list --show-origin
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{2}{4}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{2}{4}" title="\frac{2}{4}" /></a>
